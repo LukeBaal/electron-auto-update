@@ -1,0 +1,4 @@
+appId: com.lukebaal.ElectronAutoUpdate
+publish:
+  provider: github
+  token: <PAT>
